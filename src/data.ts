@@ -125,7 +125,7 @@ export const games: Game[] = [
     {
         name: "Suika Game",
         description: "Simple Suika Game (2021) remake.\nMade for Android to test a custom-made mobile framework.",
-        platforms: [Platform.Windows],
+        platforms: [Platform.Android],
         engine: GameEngine.Unity5,
         teamsize: "Solo dev",
         status: Status.Completed,
